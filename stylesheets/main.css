@@ -4,7 +4,6 @@
 body{
 	font-family: 'Fira Code', monospace;
 	width: 1440px;
-	height: 10240px;
 	background: white;
 	display: flex;
 	flex-direction: column;
